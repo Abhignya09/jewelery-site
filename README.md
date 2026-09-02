@@ -96,8 +96,3 @@ npm start
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Abhignya09/jewelery-site/issues) if you want to contribute.
-
-
-If you'd like me to fetch or look at any specific files from your repo (like your `package.json` dependencies or API endpoints in `backend/`), just tell me which folder to check!
-
-```
